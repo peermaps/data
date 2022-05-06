@@ -20,6 +20,7 @@ Recommended zoom range: ??-21
 
 * /ipfs/QmVCYUK51Miz4jEjJxCq3bA6dfq5FXD6s2EYp6LjHQhGmh
 * hyper://3dd1656d6408a718fae1117b5283fb18cb1f9139b892ce0f8cacbb6737ec1d67
+* https://peermaps.linkping.org/data
 
 [planet-osm]: https://planet.openstreetmap.org/
 [eyros]: https://github.com/peermaps/eyros
