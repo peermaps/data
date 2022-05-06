@@ -37,8 +37,8 @@ There are 3 directories: 110m, 50m, and 10m.
 
 Recommended zoom ranges: 110m: ??-??, 50m: ??-??, 10m: ??-??
 
-* /ipfs/QmY1Ggv8EZT2973nNwjMB4rarUxiCgkAEADoiczWekpayq
-* hyper://14812ae6cafa38b8a62dc85b68e0541cbd7ce8801d3adc4cb0ab8aec698a4879
+* /ipfs/QmTes6hYgCZzcP4oXjyvT48UwmzfqvWApXHs77sTnJV7fq
+* hyper://44763daa1dd8a6e804927c22de95752fa821a7a1bf06ca59a47c1fc27cb28150
 
 [natural earth]: https://www.naturalearthdata.com/
 
