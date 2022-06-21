@@ -42,3 +42,13 @@ Recommended zoom ranges: 110m: ??-??, 50m: ??-??, 10m: ??-??
 
 [natural earth]: https://www.naturalearthdata.com/
 
+## sparse geonames cities500
+
+This dataset provides the cities500 dataset from [geonames][] in a
+[sparse format](https://github.com/peermaps/sparse-geonames-ingest) suitable for
+[queries without downloading the entire archive](https://github.com/peermaps/sparse-geonames-search).
+
+* /ipfs/QmVsqp3ct4WXDzSPRBqgHW6fKkkbLjfpjrGp8k45wXHH6w
+* hyper://cff2454cb4c21bd9c8f36d6f2ac45b32dbe3abbb5cb5996e8f06e249c5693437
+
+[geonames]: https://download.geonames.org/export/dump/
