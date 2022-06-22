@@ -48,7 +48,7 @@ This dataset provides the cities500 dataset from [geonames][] in a
 [sparse format](https://github.com/peermaps/sparse-geonames-ingest) suitable for
 [queries without downloading the entire archive](https://github.com/peermaps/sparse-geonames-search).
 
-* /ipfs/QmVsqp3ct4WXDzSPRBqgHW6fKkkbLjfpjrGp8k45wXHH6w
-* hyper://cff2454cb4c21bd9c8f36d6f2ac45b32dbe3abbb5cb5996e8f06e249c5693437
+* /ipfs/QmcWEeF9UGuo1VUw8N97uEH5rjcXvoay2fJusDvajHfmNN
+* hyper://c1fed4a7be3d36e437fec0fba04d40fee7565ccf756c4801ffcea2f0ae1eecc9
 
 [geonames]: https://download.geonames.org/export/dump/
