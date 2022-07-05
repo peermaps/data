@@ -12,7 +12,7 @@ automated tool.
 ## planet-osm eyros georender
 
 This dataset imports [planet-osm][] into an [eyros][] database in the
-[georender][] format.
+[georender][] format. Size `100GiB`.
 
 Generated from September 2021 planet-osm snapshot.
 
