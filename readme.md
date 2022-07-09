@@ -52,3 +52,12 @@ This dataset provides the cities500 dataset from [geonames][] in a
 * hyper://c1fed4a7be3d36e437fec0fba04d40fee7565ccf756c4801ffcea2f0ae1eecc9
 
 [geonames]: https://download.geonames.org/export/dump/
+
+## qbzf fonts
+
+noto, liberation, and dejavu fonts imported into [qbzf][] format
+
+* /ipfs/QmNQCPGV3XZrtNdQyMbZhSJcGisg4xCFyxeHs1tacrdETm
+* hyper://126065f6b93924f976034b84ce74d9d570a44903ce9d110069a7aa65ddccd507
+
+[qbzf]: https://github.com/peermaps/qbzf
